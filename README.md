@@ -25,4 +25,5 @@ Will release the annotated dataset soon!
 
 # Tips to actually make it work
 > Use your own API key in kaggle.json file
+
 > Update the paths of train and test folder in data.yaml file
