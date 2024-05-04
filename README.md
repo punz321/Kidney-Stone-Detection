@@ -18,3 +18,11 @@ YOLOv9 builds upon the YOLOv7 models and utilizes a new concept called Programma
 
 # Result and Discussion
 The YOLOv9 model achieved a mean Average Precision (mAP) of 85% on the test dataset, indicating its effectiveness in object detection tasks. The model demonstrated high precision and recall rates, with precision at 82% and recall at 84%. These results underscore the YOLOv9 model's ability to accurately detect and localize objects in images while maintaining a low false positive rate.
+
+Not yet deployed the model, but in the process
+
+Will release the annotated dataset soon!
+
+# Tips to actually make it work
+> Use your own API key in kaggle.json file
+> Update the paths of train and test folder in data.yaml file
