@@ -1,4 +1,4 @@
-train: /content/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone/train
-test: /content/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone/test
+train: path-to-train-folder-containing-images-and-labels
+test: path-to-test-folder-containing-images-and-labels
 nc: 2
 names: ['Stone', 'Normal']
