@@ -1,5 +1,5 @@
 # Kidney-Stone-Detection
-Using YOLOv9 to detect stones in kidneys
+In this project, we'll be using YOLOv9 to detect stones in kidneys
 
 # Dataset
 In this study, we used CT KIDNEY dataset from Kaggle, which was in turn taken from PACS (Picture Archiving and Communication System) and office work at a hospital in Dhaka, Bangladesh, where patients were diagnosed with kidney cancer, cyst, normal, or stone. All subjects in the data voluntarily participated in the research experiment and their informed consent was confirmed before data collection. The dataset contains 12,466 unique pieces of data, of which 3,709 were normal, 5,077 were normal, 1,377 were stones, and 2,283 were tumors.
